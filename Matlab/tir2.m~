@@ -29,3 +29,4 @@ for i=j:length(p)
     end
 end
 r=double(k);
+        
